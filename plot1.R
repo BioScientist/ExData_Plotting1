@@ -23,3 +23,4 @@ hist(df$Global_active_power,
      col = "red")
 
 dev.off()
+

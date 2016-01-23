@@ -25,3 +25,4 @@ with(for_plot, {
   legend("topright", legend = names(for_plot)[-1], lty = 1, col = c("black", "red", "blue") )
 })
 dev.off()
+
